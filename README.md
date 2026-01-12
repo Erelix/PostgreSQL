@@ -1,5 +1,5 @@
 # PostgreSQL
-**2024 Autumn Semester**
+**2024/2025 Autumn Semester**
 
 **Course Coordinators:**
 - Romas Baronas, Prof., Dr. (HP)
